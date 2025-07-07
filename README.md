@@ -31,7 +31,8 @@ The primary source of the data used was 'Amazon case study Microsoft Excel Works
 - Each row represents a unique product, with aggregated reviewer data, stored as comma-separated values
   - Total Records: 1,465 rows
   - Total Fields: 16 columns
-
+File: https://github.com/GreatTaiwo/DSA-Case-Study-1/blob/main/Amazon%20case%20study.xlsx
+ 
 ## Tools Used
 Ms Excel for Data cleaning and analysis [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
