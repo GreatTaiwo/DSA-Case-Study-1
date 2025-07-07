@@ -38,5 +38,6 @@ The primary source of the data used was 'Amazon case study Microsoft Excel Works
 Ms Excel for Data cleaning and analysis [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ## Data Cleaning and Preparation
-1. Opening 
+1. Opening of file and converting the dataset to table so as to make it structured.
+2. 
 
