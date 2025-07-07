@@ -2,11 +2,11 @@
 
 This is a project from Digital Skillup Africa (DSA) Data Analysis Class with the Incubator Hub. The training focused on Microsoft Excel, SQL and Power BI. This particular repository is for the Capstone Project titled Case study 1, an Excel project.  
 
-##Project Topic: Case Study 1: Amazon Product Review Analysis
+## Project Topic: Case Study 1: Amazon Product Review Analysis
 
-###Project Overview
+### Project Overview
 
-This project aims to generate insights that can guide product improvement, marketing strategies, and customer engagement. The following are the analysis task:
+This project aims to generate insights that can guide product improvement, marketing strategies, and customer engagement. The following are the analysis tasks:
 Use pivot tables and calculated columns where necessary to answer the following:
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
@@ -24,4 +24,16 @@ Use pivot tables and calculated columns where necessary to answer the following:
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined
+
+## Data Sources
+
+The primary source of the data used was from Amazon product pages, it includes:
+- Product details: name, category, price, discount, and ratings
+- Customer engagement: user reviews, titles, and content
+- Each row represents a unique product, with aggregated reviewer data, stored as comma-separated values
+Total Records: 1,465 rows
+TotalFields: 16 columns
+
+## Tools Used
+Ms Excel for Data cleaning and analysis [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 
