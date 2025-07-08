@@ -55,7 +55,7 @@ EDA involved the exploring of the Data to answer some questions using pivot tabl
   - Question 14: = AVERAGE([@rating]) + ([@[rating_count]]/1000)
   - Although for question 7, a calculated column was created using = IF([@[discount_percentage]] >= 50%, "1", "0"), this was not used, rather, the pivot table was filtered. 
 
-## Interpretation of Result
+## Interpretation of Results
 
 The dashboard showed charts that I believe would help guide product improvement, marketing strategies, and customer engagement. The results showed that discount does not necessarily determine the ratings, it is infered that customers rate based on satisfaction regardless of the discount price. This should inform the sellers to ensure quality products are sold, which would meet the need of their customers in order to get higher ratings and more reviews. An example of this is the top 5 products in terms of ratings and number of reviews combined, which showed that seven (7) products (Question 14, under case study 1 worksheet) fell within this category with tied values; 431 and 368. When the table was expanded, it was discovered that although most of the products had discount between 61-80% with ratings between 4.1 and 4.4, the only one with 31-40% had 4.4 rating and one of the highest reviews.
 
